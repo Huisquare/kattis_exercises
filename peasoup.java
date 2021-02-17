@@ -1,5 +1,5 @@
 import java.util.*;
-public class peasoupAndPancakes{
+public class peasoup{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int numOfRes = sc.nextInt();
