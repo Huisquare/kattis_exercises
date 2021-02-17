@@ -1,5 +1,5 @@
 # kattis_exercises
-my solutions to Kattis exercises
-for your reference only
-please do not plaglarise
-happy learning!
+my solutions to Kattis exercises <br/>
+for your reference only <br/>
+please do not plaglarise <br/>
+happy learning! <br/>
